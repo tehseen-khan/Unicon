@@ -96,6 +96,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="units.dat" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Unicon.ico" />

@@ -1,0 +1,306 @@
+ParamID,UnitDescription,Unit,Multiple,Offset
+Acceleration,centimeter per second squared,cm/s²,100,0
+Acceleration,foot per second squared,ft/s²,3.28084,0
+Acceleration,gravity,g,0.101972,0
+Acceleration,inch per second squared,in/s²,39.3701,0
+Acceleration,kilometer per hour.second,km/h.s,3.6,0
+Acceleration,meter per second squared,m/s²,1,0
+Angle,centigradian,cg,111.111111,0
+Angle,degree,deg (°),1,0
+Angle,gradian,g,1.11111111,0
+Angle,mil,mil,17.77792119,0
+Angle,minute,min ('),60,0
+Angle,quadrant,+,0.011111111,0
+Angle,radian,rad,0.017453293,0
+Angle,revolution,rev,0.002777778,0
+Angle,second,"sec ("")",3600,0
+Angular Acceleration,degree per second squared,°/s²,57.2958,0
+Angular Acceleration,radian per second squared,rad/s²,1,0
+Angular Acceleration,revolutoin per minute.second,rev/min.s,9.5493,0
+Angular Acceleration,revolution per minute squared,rev/min²,572.958,0
+Angular Acceleration,revolution per second squared,rev/s²,0.159155,0
+Angular Velocity,radian per hour,rad/h,3600,0
+Angular Velocity,radian per minute,rad/min,60,0
+Angular Velocity,radian per second,rad/s,1,0
+Angular Velocity,degree per hour,°/h,206265,0
+Angular Velocity,degree per minute,°/min,3437.75,0
+Angular Velocity,degree per second,°/s,57.2958,0
+Angular Velocity,revolution per hour,rev/h,572.958,0
+Angular Velocity,revolution per minute,rev/min,9.5493,0
+Angular Velocity,revolution per second,rev/s,0.159155,0
+Area,acre,acre,0.000247103,0
+Area,are,a,0.01,0
+Area,barn,b,1E+28,0
+Area,circular mil,cmil,1973525160,0
+Area,darcy,d,1.01325E+12,0
+Area,hectare,ha,0.0001,0
+Area,square centimeter,cm²,10000,0
+Area,square foot,ft²,10.76391,0
+Area,square inch,in²,1550.0031,0
+Area,square kilometer,km²,0.000001,0
+Area,square meter,m²,1,0
+Area,square mile,mi²,3.86102E-07,0
+Area,square millimeter,mm²,1000000,0
+Area,square yard,yd²,1.1959894,0
+Area,township,ts,1.07251E-08,0
+Capacitance,abafarad,aF,0.000000001,0
+Capacitance,electromagnetic unit,EMU,0.000000001,0
+Capacitance,electrostatic unit,ESU,8.98755E+11,0
+Capacitance,farad,F,1,0
+Capacitance,microfarad,µF,1000000,0
+Capacitance,picofarad,pF,1E+12,0
+Capacitance,statfarad,sF,8.98755E+11,0
+Charge,coulomn,C,1,0
+Charge,abacoulomb,aC,0.1,0
+Charge,statCoulomb,sC,2997920000,0
+Charge,amperehour,A.h,0.000277778,0
+Charge,faraday (carbon 12),faraday,1.03641E-05,0
+Charge,faraday (chemical),faraday,1.03632E-05,0
+Charge,faraday (physical),faraday,1.03603E-05,0
+Coverage,square foot per gallon,ft²/gal,40.7458,0
+Coverage,square inch per gallon,in²/gal,5867.4,0
+Coverage,square meter per cubic meter,m²/m³,1000,0
+Coverage,square meter per liter,m²/L,1,0
+Coverage,square yard per gallon,yd²/gal,4.52731,0
+Current,ampere,A,1,0
+Current,milliampere,mA,1000,0
+Current,microampere,µA,1000000,0
+Current,statampere,sA,2997920000,0
+Current,abampere,aA,0.1,0
+Current,electrostatic unit of current,ESU,2997920000,0
+Current,electromagnetic unit of current,EMU,0.1,0
+Current,gilbert,Gb,1.25664,0
+Density,grain per gallon (US),gr/gal,58.4178,0
+Density,gram per cubic meter,g/m³,1000,0
+Density,gram per liter,g/l,1,0
+Density,gram per milliliter,g/ml,0.001,0
+Density,kilogram per cubic meter,kg/m³,1,0
+Density,kilogram per liter,kg/l,0.001,0
+Density,milligram per liter,mg/l,1000,0
+Density,ounce per cubic inch,oz/in³,0.000578037,0
+Density,ounce per cubic foot,oz/ft³,0.998847,0
+Density,ounce per gallon,oz/gal,0.133527,0
+Density,pound per cubic foot,lb/ft³,0.062428,0
+Density,pound per cubic inch,lb/in³,3.61273E-05,0
+Density,pound per cubic yard,lp/yd³,1.68555,0
+Density,pound per gallon,lb/gal,0.00834541,0
+Density,ton per cubic yard,t/yd³,0.000764553,0
+Flow,cubic foot per hour,ft³/hr,127.1,0
+Flow,cubic foot per minute,ft³/min,2.119,0
+Flow,cubic meter per hour,m³/hr,3.6,0
+Flow,imp gallon per minute,Imp gal/min,13.2,0
+Flow,liter per minute,l/min,60,0
+Flow,liter per second,l/sec,1,0
+Flow,US barrel per day,US barrel/d,543.4,0
+Flow,US gallon per minute,US gal/min,15.85,0
+Force,dyne,dyne,100000000,0
+Force,gram force,gf,101972,0
+Force,joule per centimeter,J/cm,10,0
+Force,joule per meter,J/m,1000,0
+Force,kilogram force,kgf,101.972,0
+Force,kilonewton,KN,1,0
+Force,kilopound,klb,0.224809,0
+Force,newton,N,1000,0
+Force,ounce force,ozf,3596.94,0
+Force,pound force,lbf,224.809,0
+Force,poundal,pdl,7233.01,0
+Force,ton force,tf,0.112404,0
+Illuminance,footcandle,fc,0.0929031,0
+Illuminance,lumen per square foot,lm/ft²,0.0929031,0
+Illuminance,lumen per square meter,lm/m²,1,0
+Illuminance,lux,lx,1,0
+Inductance,abhenry,aH,1000000000,0
+Inductance,electromagnetic unit of inductance,EMU,1000000000,0
+Inductance,electrostatic unit of inductance,ESU,1.11265E-12,0
+Inductance,henry,H,1,0
+Inductance,microhenry,µH,1000000,0
+Inductance,millihenry,mH,1000,0
+Inductance,stathenry,sH,1.11265E-12,0
+Length,angstrom,Å,1E+13,0
+Length,centimeter,cm,100000,0
+Length,chain,chain,49.709596,0
+Length,decimeter,dm,10000,0
+Length,fathom,fath,546.806649,0
+Length,foot,ft,3280.839895,0
+Length,furlong,furlong,4.970968,0
+Length,inch,in,39370.0787,0
+Length,kilometer,km,1,0
+Length,light year,lt.yr,1.05698E-13,0
+Length,meter,m,1000,0
+Length,micrometer,µm,1000000000,0
+Length,mil,mil,39370078.7,0
+Length,mile,mi,0.621371,0
+Length,millimeter,mm,1000000,0
+Length,nautical mile,n mi,0.5399568,0
+Length,rod,rod,198.838386,0
+Length,yard,yd,1093.613,0
+Luminance,candela per square inch,cd/in²,0.000645161,0
+Luminance,candela per square meter,cd/m²,1,0
+Luminance,foot lambert,fL,0.291864,0
+Luminance,lambert,L,0.000314159,0
+Mass,carat,Kt,5000,0
+Mass,grain,gr,15432.358,0
+Mass,gram,g,1000,0
+Mass,hundredweight,hwt,0.022046224,0
+Mass,kilogram,kg,1,0
+Mass,metric ton,ton,0.001,0
+Mass,milligram,mg,1000000,0
+Mass,ounce,oz,35.273965,0
+Mass,ounce (troy),oz t,32.15074,0
+Mass,pennyweight,pwt,643.01487,0
+Mass,pound,lb,2.204623,0
+Mass,pound (troy),lb t,2.679229,0
+Mass,slug,slug,0.068521779,0
+Memory,bit,bit,8589934592,0
+Memory,byte,B,1073741824,0
+Memory,double word,DW,268435456,0
+Memory,gigabyte,GB,1,0
+Memory,kilobyte,KB,1048576,0
+Memory,megabyte,MB,1024,0
+Memory,nibble,nibble,2147483648,0
+Memory,quad word,QW,134217728,0
+Memory,segment,seg,16384,0
+Memory,word,W,536870912,0
+Power,British thermal unit per hour,Btu/h,3412.1406,0
+Power,British thermal unit per minute,Btu/min,56.86901,0
+Power,British thermal units per second,Btu/s,0.947816833,0
+Power,calorie per hour,cal/h,860421,0
+Power,erg per second,erg/s,10000000000,0
+Power,foot pound force per hour,(ft.lbf)/h,2655220,0
+Power,foot pound force per minute,(ft.lbf)/min,44253.726,0
+Power,foot pound force per second,(ft.lbf)/s,737.5621,0
+Power,horsepower (metric),hp,1.35962,0
+Power,horsepower (electric),hp,1.34048,0
+Power,horsepower,hp,1.34022,0
+Power,kilocalorie per second,kcal/s,0.239006,0
+Power,kilowatt,kW,1,0
+Power,megawatt,MW,0.001,0
+Power,ton refrigeration,ton,0.284333,0
+Power,watt,W,1000,0
+Pressure,atmosphere,atm,9.86923E-06,0
+Pressure,bar,bar,0.00001,0
+Pressure,foot of water,ftWC,0.000334552,0
+Pressure,inch of mercury,inHg,0.0002953,0
+Pressure,inch of water,inWC,0.00401463,0
+Pressure,kilogram per square centimeter,kg/cm²,1.01972E-05,0
+Pressure,kilogram per square meter,kg/m²,0.101972,0
+Pressure,kilopascal,kPa,0.001,0
+Pressure,microbar,µbar,10,0
+Pressure,millibar,mbar,0.01,0
+Pressure,millimeter of mercury,mmHg or Torr,0.00750062,0
+Pressure,millimeter of water,mmWC,0.1019718,0
+Pressure,pascal,Pa,1,0
+Pressure,pound per square inch,lb/in² or psi,0.000145038,0
+Pressure,pound per square foot,lb/ft²,0.0208854,0
+Specific Heat,calorie per gram (international),cal/g,0.000238846,0
+Specific Heat,calorie per gram (thermal),cal/g,0.000239006,0
+Specific Heat,joule per gram,J/g,0.001,0
+Specific Heat,joule per kilgram,J/kg,1,0
+Specific Heat,kilowatt hour per kilogram,kWH/kg,2.77778E-07,0
+Specific Heat,Btu per pound mass (international),Btu/lbm,0.000238846,0
+Specific Heat,Btu per pound mass (thermal),Btu/lbm,0.000239006,0
+Temperature,celcius,ºC,1,0
+Temperature,fahrenheit,ºF,1.8,32
+Temperature,kelvin,K,1,273.15
+Temperature,rankine,R,1.8,491.67
+Thermal Conductivity,Btu foot per hour square foot (international),Btu.ft/(h.ft²)_Intl,0.577788,0
+Thermal Conductivity,Btu foot per hour square foot (thermal),Btu.ft/(h.ft²)_Ther,0.578175,0
+Thermal Conductivity,Btu inch per hour square foot (international),Btu.in/(h.ft²)_Intl,6.93347,0
+Thermal Conductivity,Btu inch per hour square foot (thermal),Btu.in/(h.ft²)_Ther,6.93813,0
+Thermal Conductivity,Btu inch per second square foot (international),Btu.in/(s.ft²)_Intl,0.00192597,0
+Thermal Conductivity,Btu inch per second square foot (thermal),Btu.in/(s.ft²)_Ther,0.00192725,0
+Thermal Conductivity,calorie per centimeter second (therm),cal/(cm.s),0.00239006,0
+Thermal Conductivity,watt per meter,W/m,1,0
+Thermal Conductivity,watt per centimeter,W/cm,0.01,0
+Time,century,century,0.01,0
+Time,day,d,365,0
+Time,hour,hr,8760,0
+Time,millennium,millennium,0.001,0
+Time,millisecond,ms,31536000000,0
+Time,minute,min,525600,0
+Time,month,mn,12.16666667,0
+Time,nanosecond,ns,3.1536E+16,0
+Time,picosecond,ps,3.1536E+19,0
+Time,second,s,31536000,0
+Time,week,wk,52.1428571,0
+Time,year,yr,1,0
+Torque,dyne centimeter,dyn.cm,10000000,0
+Torque,kilogram force meter,kgf.m,0.101972,0
+Torque,newton meter,N.m,1,0
+Torque,ounce force inch,ozf.in,141.612,0
+Torque,pound force foot,lbf.ft,0.737561,0
+Torque,pound force inch,lbf.in,8.85073,0
+Velocity,centimeter per hour,cm/h,360000,0
+Velocity,centimeter per minute,cm/min,6000,0
+Velocity,centimeter per second,cm/s,100,0
+Velocity,foot per hour,ft/h,11811.0236,0
+Velocity,foot per minute,ft/min,196.85039,0
+Velocity,foot per second,ft/s,3.28084,0
+Velocity,inch per hour,in/hr,141732.2835,0
+Velocity,inch per minute,in/min,2362.20472,0
+Velocity,inch per second,in/s,39.3701,0
+Velocity,kilometer per hour,km/h,3.6,0
+Velocity,kilometer per minute,km/min,0.06,0
+Velocity,kilometer per second,km/s,0.001,0
+Velocity,knot,knot,1.9438445,0
+Velocity,meter per hour,m/h,3600,0
+Velocity,meter per second,m/s,1,0
+Velocity,meter per minute,m/min,60,0
+Velocity,mile per hour,mi/h,2.2369363,0
+Velocity,mile per minute,mi/min,0.037282272,0
+Velocity,mile per second,mi/s,0.000621371,0
+Velocity,millimeter per hour,mm/h,3600000,0
+Velocity,millimeter per minute,mm/min,60000,0
+Velocity,millimeter per second,mm/s,1000,0
+Velocity,mach number,Ma,0.00301696,0
+Viscosity,centistoke,cstoke,1000000,0
+Viscosity,square centimeter per second,cm²/s,10000,0
+Viscosity,square feet per hour,ft²/h,38750.7,0
+Viscosity,square feet per second,ft²/s,10.7639,0
+Viscosity,square inch per second,in²/s,1550.39,0
+Viscosity,square meter per hour,m²/h,3600,0
+Viscosity,square meter per second,m²/s,1,0
+Viscosity,stoke,stoke,10000,0
+Voltage,abvolt,abV,100000000,0
+Voltage,electromagnetic unit of elec potential,EMU,100000000,0
+Voltage,electrostatic unit of elec potential,ESU,0.00333564,0
+Voltage,microvolt,µV,1000000,0
+Voltage,millivolt,mV,1000,0
+Voltage,picovolt,pV,1E+12,0
+Voltage,statvolt,sV,0.00333564,0
+Voltage,volt,V,1,0
+Volume,acre-foot,acre-foot,0.000810701,0
+Volume,barrel (oil),bbl,6.28981057,0
+Volume,cubic foot,ft³,35.31466247,0
+Volume,cubic inch,in³,61023.74409,0
+Volume,cubic meter,m³,1,0
+Volume,cubic yard,yd³,1.307950547,0
+Volume,cup (US),cup,4226.542688,0
+Volume,gallon (UK),gal (UK),219.9692,0
+Volume,gallon (US),gal (US),264.1720373,0
+Volume,liter,L,1000,0
+Volume,milliliter,mL,1000000,0
+Volume,normal meter cube,nmc,1,0
+Volume,ounces (US fluid),oz,33814.0222,0
+Volume,pint (US fluid),pt,2113.378531,0
+Volume,quart (US fluid),qt,1056.688149,0
+Volume,standard cubic foot,scf,37.325,0
+Volume,tablespoon,tbl,67613.2522,0
+Volume,teaspoon,tsp,202880.9089,0
+Work,British thermal unit,Btu,3412.141,0
+Work,calorie,cal,860421,0
+Work,calorie (nutrition),cal,860.421,0
+Work,electronvolt,eV,2.24692E+25,0
+Work,erg,erg,3.6E+13,0
+Work,footpound,ft.lb,2655220,0
+Work,horsepower.hour,hp.hr,1.341,0
+Work,joule,J,3600000,0
+Work,kilogram force meter,kgf.m,367097.76,0
+Work,kilowatthour,kWh,1,0
+Work,quad,quad,3.41232E-12,0
+Work,ton (TNT),ton,0.000860421,0
+Work,watthour,Wh,1000,0
+Work,wattsecond,W.s,3600000,0
+Magnetic Flux,maxwell,Mx,100000000,0
+Magnetic Flux,weber,Wb,1,0
+Magnetic Flux,unit pole,unit pole,7957750,0
