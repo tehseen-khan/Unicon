@@ -58,7 +58,7 @@ namespace Unicon
 
         private void cmbParam_SelectedIndexChanged(object sender, EventArgs e)
         {
-            PopulateListBox(LBFrom, LBTo, cmbParam, obj, ref mpy, ref offs);
+            PopulateListBox(LBFrom, LBTo, cmbParam, obj, ref mpy, ref offs,ref ttptext);
         }
 
         private void cmdExit_Click(object sender, EventArgs e)
@@ -122,7 +122,8 @@ namespace Unicon
             comboBox.DataSource = objects.Select(x => x.Param).Distinct().ToList();
         }
 
-        public static void PopulateListBox(ListBox listBox1, ListBox listBox2, ComboBox comboBox, List<ObjUnit> objects, ref double[] mp, ref double[] ofs)
+        public static void PopulateListBox(ListBox listBox1, ListBox listBox2, ComboBox comboBox,
+            List<ObjUnit> objects, ref double[] mp, ref double[] ofs,ref string[] ttp1)
         {
             listBox1.Items.Clear();
             listBox2.Items.Clear();
@@ -132,6 +133,7 @@ namespace Unicon
             listBox2.Items.AddRange(items.ToArray());
             mp = objects.Where(x => x.Param == selectedValue).Select(x => x.Multiple).ToArray();
             ofs = objects.Where(x => x.Param == selectedValue).Select(x => x.Offset).ToArray();
+            ttp1= objects.Where(x => x.Param == selectedValue).Select(x => x.UnitDescription).ToArray();
         }
 
     }
