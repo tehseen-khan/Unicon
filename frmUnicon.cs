@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Net.Security;
 using System.Text;
 using System.Windows.Forms;
 
@@ -23,9 +25,11 @@ namespace Unicon
         private void frmUnicon_Load(object sender, EventArgs e)
         {
             string curFile = Properties.Settings.Default.dbFile;
+            string path = AppContext.BaseDirectory;
+            if (curFile == null || curFile == "units.dat") curFile = path + curFile;
             if (!File.Exists(curFile))
             {
-                if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
                 {
                     Properties.Settings.Default.dbFile = openFileDialog1.FileName;
                     Properties.Settings.Default.Save();
